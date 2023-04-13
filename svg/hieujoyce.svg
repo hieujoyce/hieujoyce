@@ -1810,6 +1810,126 @@
           top: -2px;
           vertical-align: middle;
         }
+        .love-back .love-wrap:nth-child(1) .love .circle,
+        .love-back .love-wrap:nth-child(1) .love .square {
+          background-color: #2ecc71;
+        }
+
+        .love-back .love-wrap:nth-child(2) .love .circle,
+        .love-back .love-wrap:nth-child(2) .love .square {
+          background-color: #1abc9c;
+        }
+
+        .love-back .love-wrap:nth-child(3) .love .circle,
+        .love-back .love-wrap:nth-child(3) .love .square {
+          background-color: #f1c40f;
+        }
+
+        .love-back .love-wrap:nth-child(4) .love .circle,
+        .love-back .love-wrap:nth-child(4) .love .square {
+          background-color: #e67e22;
+        }
+
+        .love-back .love-wrap:nth-child(4) .love .circle,
+        .love-back .love-wrap:nth-child(4) .love .square {
+          background-color: #3498db;
+        }
+
+        .love-back .love-wrap:nth-child(5) .love .circle,
+        .love-back .love-wrap:nth-child(5) .love .square {
+          background-color: #8e44ad;
+        }
+
+        .love-back .love-wrap:nth-child(5) .love .circle,
+        .love-back .love-wrap:nth-child(5) .love .square {
+          background-color: #e74c3c;
+        }
+
+        .love-back .love-wrap:nth-child(6) .love .circle,
+        .love-back .love-wrap:nth-child(6) .love .square {
+          background-color: #34495e;
+        }
+
+        .love-back .love-wrap:nth-child(7) .love .circle,
+        .love-back .love-wrap:nth-child(7) .love .square {
+          background-color: #f39c12;
+        }
+
+        .love-back .love-wrap:nth-child(8) .love .circle,
+        .love-back .love-wrap:nth-child(8) .love .square {
+          background-color: #bdc3c7;
+        }
+
+
+        .love-front .love-wrap:nth-child(1) .love .circle,
+        .love-front .love-wrap:nth-child(1) .love .square {
+          background-color: #2ecc71;
+        }
+
+        .love-front .love-wrap:nth-child(2) .love .circle,
+        .love-front .love-wrap:nth-child(2) .love .square {
+          background-color: #1abc9c;
+        }
+
+        .love-front .love-wrap:nth-child(3) .love .circle,
+        .love-front .love-wrap:nth-child(3) .love .square {
+          background-color: #f1c40f;
+        }
+
+        .love-front .love-wrap:nth-child(4) .love .circle,
+        .love-front .love-wrap:nth-child(4) .love .square {
+          background-color: #e67e22;
+        }
+
+        .love-front .love-wrap:nth-child(4) .love .circle,
+        .love-front .love-wrap:nth-child(4) .love .square {
+          background-color: #3498db;
+        }
+
+        .love-front .love-wrap:nth-child(5) .love .circle,
+        .love-front .love-wrap:nth-child(5) .love .square {
+          background-color: #8e44ad;
+        }
+
+        .love-front .love-wrap:nth-child(5) .love .circle,
+        .love-front .love-wrap:nth-child(5) .love .square {
+          background-color: #e74c3c;
+        }
+
+        .love-front .love-wrap:nth-child(6) .love .circle,
+        .love-front .love-wrap:nth-child(6) .love .square {
+          background-color: #34495e;
+        }
+
+        .love-front .love-wrap:nth-child(7) .love .circle,
+        .love-front .love-wrap:nth-child(7) .love .square {
+          background-color: #f39c12;
+        }
+
+        .love-front .love-wrap:nth-child(8) .love .circle,
+        .love-front .love-wrap:nth-child(8) .love .square {
+          background-color: #bdc3c7;
+        }
+
+        .love-front .love-wrap:nth-child(9) .love .circle,
+        .love-front .love-wrap:nth-child(9) .love .square {
+          background-color: #ff9ff3;
+        }
+
+        .love-front .love-wrap:nth-child(10) .love .circle,
+        .love-front .love-wrap:nth-child(10) .love .square {
+          background-color: #f368e0;
+        }
+
+        .love-front .love-wrap:nth-child(11) .love .circle,
+        .love-front .love-wrap:nth-child(11) .love .square {
+          background-color: #f19066;
+        }
+
+        .love-front .love-wrap:nth-child(12) .love .circle,
+        .love-front .love-wrap:nth-child(12) .love .square {
+          background-color: #3dc1d3;
+        }
 
       </style>
       <div class="stage">
