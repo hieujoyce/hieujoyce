@@ -68,7 +68,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="" target="blank">
-    <img width="90" height="90" src="images/hieujoyce.jpg" alt="hieujoycedev"/>
+    <img width="85" height="85" src="images/hieujoyce1.jpg" alt="hieujoycedev"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100042732981619" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hieujoycedev-facebook" />
