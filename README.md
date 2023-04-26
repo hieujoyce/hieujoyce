@@ -5,6 +5,8 @@
   <img src="svg/hieujoyce2.svg" alt="Hieu Joyce" width="1200" height="450" />
 </a>
 <br>
+<br>
+<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
