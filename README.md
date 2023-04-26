@@ -61,3 +61,30 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=hieujoyce&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
+
+<br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="" target="blank">
+    <img width="90" height="90" src="images/hieujoyce.jpg" alt="hieujoycedev"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100042732981619" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hieujoycedev-facebook" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCR6ip6K_YzCRypW5B4075JQ" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="hieujoycedev-youtube" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100042732981619" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="hieujoycedev-linkedin" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100042732981619" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hieujoycedev-instagram" />
+  </a>
+  <a href="#" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hieujoycedev-email" />
+  </a>
+</div>
+
+<br>
