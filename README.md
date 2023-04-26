@@ -4,7 +4,7 @@
 <a href="#" target="_blank">
   <img src="svg/hieujoyce2.svg" alt="Hieu Joyce" width="1200" height="450" />
 </a>
-
+<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
