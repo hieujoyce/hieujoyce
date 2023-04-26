@@ -2,7 +2,7 @@
   <img src="svg/hieujoyce.svg" alt="Hieu Joyce" width="1200" height="750" />
 </a>
 <a href="#" target="_blank">
-  <img src="svg/hieujoyce2.svg" alt="Hieu Joyce" width="1200" height="600" />
+  <img src="svg/hieujoyce2.svg" alt="Hieu Joyce" width="1200" height="450" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
