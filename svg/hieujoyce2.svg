@@ -53,7 +53,7 @@
           transform: rotate(0deg);
           animation: shake-right var(--minor-rotate-dur) linear infinite;
         }
-        #welcome-sign .sign-letter {
+        #welcome-sign .sign-letter, #hieu-n-joyce .sign-letter {
           opacity: var(--opacity-start);
         }
         #welcome-sign #sign-outline {
@@ -82,7 +82,7 @@
             opacity: var(--opacity-start);
           }
         }
-        #welcome-sign #sign-w {
+        #welcome-sign #sign-w, #hieujoyce-sign-h {
           animation: opacity-sign-w var(--sign-opacity-dur) linear var(--sign-opacity-del) infinite;
         }
         @keyframes opacity-sign-w {
@@ -108,7 +108,7 @@
             opacity: var(--opacity-start);
           }
         }
-        #welcome-sign #sign-e-1 {
+        #welcome-sign #sign-e-1, #hieujoyce-sign-i {
           animation: opacity-sign-e-1 var(--sign-opacity-dur) linear var(--sign-opacity-del) infinite;
         }
         @keyframes opacity-sign-e-1 {
@@ -134,7 +134,7 @@
             opacity: var(--opacity-start);
           }
         }
-        #welcome-sign #sign-l {
+        #welcome-sign #sign-l, #hieujoyce-sign-e {
           animation: opacity-sign-l var(--sign-opacity-dur) linear var(--sign-opacity-del) infinite;
         }
         @keyframes opacity-sign-l {
@@ -163,7 +163,7 @@
             opacity: var(--opacity-start);
           }
         }
-        #welcome-sign #sign-c {
+        #welcome-sign #sign-c, #hieujoyce-sign-u {
           animation: opacity-sign-c var(--sign-opacity-dur) linear var(--sign-opacity-del) infinite;
         }
         @keyframes opacity-sign-c {
@@ -192,7 +192,7 @@
             opacity: var(--opacity-start);
           }
         }
-        #welcome-sign #sign-o {
+        #welcome-sign #sign-o, #hieujoyce-sign-j {
           animation: opacity-sign-o var(--sign-opacity-dur) linear var(--sign-opacity-del) infinite;
         }
         @keyframes opacity-sign-o {
@@ -221,7 +221,7 @@
             opacity: var(--opacity-start);
           }
         }
-        #welcome-sign #sign-m {
+        #welcome-sign #sign-m, #hieujoyce-sign-y {
           animation: opacity-sign-m var(--sign-opacity-dur) linear var(--sign-opacity-del) infinite;
         }
         @keyframes opacity-sign-m {
@@ -250,7 +250,7 @@
             opacity: var(--opacity-start);
           }
         }
-        #welcome-sign #sign-e-2 {
+        #welcome-sign #sign-e-2, #hieujoyce-sign-e2 {
           animation: opacity-sign-e-2 var(--sign-opacity-dur) linear var(--sign-opacity-del) infinite;
         }
         @keyframes opacity-sign-e-2 {
@@ -1359,17 +1359,23 @@
   </g>
   <g id="hieu-n-joyce">
     <g id="hieu">
-      <line class="cls-10" x1="47.48" y1="114" x2="31.48" y2="56"/>
-      <line class="cls-10" x1="92.48" y1="99" x2="76.48" y2="41"/>
-      <line class="cls-10" x1="39.48" y1="85" x2="84.48" y2="70"/>
-      <line class="cls-10" x1="123.48" y1="91" x2="111.48" y2="33"/>
-
-      <line class="cls-10" x1="158.48" y1="82" x2="152.48" y2="24"/>
-      <line class="cls-10" x1="152.48" y1="24" x2="192.48" y2="19"/>
-      <line class="cls-10" x1="155.48" y1="52" x2="187.48" y2="49"/>
-      <line class="cls-10" x1="158.48" y1="82" x2="197.48" y2="77"/>
-
-      <path class="cls-10" d="M 225 15 L 229 52 A 20 20 0 1 0 269 54 L 267 13" />
+      <g id="hieujoyce-sign-h" class="sign-letter">
+        <line class="cls-10" x1="47.48" y1="114" x2="31.48" y2="56"/>
+        <line class="cls-10" x1="92.48" y1="99" x2="76.48" y2="41"/>
+        <line class="cls-10" x1="39.48" y1="85" x2="84.48" y2="70"/>
+      </g>
+      <g id="hieujoyce-sign-i" class="sign-letter">
+        <line class="cls-10" x1="123.48" y1="91" x2="111.48" y2="33"/>
+      </g>
+      <g id="hieujoyce-sign-e" class="sign-letter">
+        <line class="cls-10" x1="158.48" y1="82" x2="152.48" y2="24"/>
+        <line class="cls-10" x1="152.48" y1="24" x2="192.48" y2="19"/>
+        <line class="cls-10" x1="155.48" y1="52" x2="187.48" y2="49"/>
+        <line class="cls-10" x1="158.48" y1="82" x2="197.48" y2="77"/>
+      </g>
+      <g id="hieujoyce-sign-u" class="sign-letter">
+        <path class="cls-10" d="M 225 15 L 229 52 A 20 20 0 1 0 269 54 L 267 13" />
+      </g>
     </g>
     <g id="n">
       <line class="cls-10" x1="355.98" y1="20.5" x2="355.98" y2="3.5"/>
@@ -1379,18 +1385,22 @@
       <line class="cls-10" x1="381.98" y1="5.5" x2="428.98" y2="65.5"/>
     </g>
     <g id="joyce" data-name="rock">
-      <path class="cls-10" d="M 535 15 L 530 52 A 20 20 0 1 1 487 54" />
+      <g id="hieujoyce-sign-j" class="sign-letter">
+        <path class="cls-10" d="M 535 15 L 530 52 A 20 20 0 1 1 487 54" />
+        <line class="cls-10" x1="515" y1="8.5" x2="550.98" y2="12.5"/>
+      </g>
       <path class="cls-10" d="M557.65,56.79a30.41,30.41,0,0,1,.85-23.23c7.45-16,27.7-22.44,45.23-14.3S629.44,47,622,63A29.68,29.68,0,0,1,611.94,75"/>
-      <line class="cls-10" x1="515" y1="8.5" x2="550.98" y2="12.5"/>
-
-      <line class="cls-10" x1="640" y1="20.5" x2="660" y2="55.5"/>
-      <line class="cls-10" x1="685" y1="30.5" x2="635" y2="85.5"/>
+      <g id="hieujoyce-sign-y" class="sign-letter">
+        <line class="cls-10" x1="640" y1="20.5" x2="660" y2="55.5"/>
+        <line class="cls-10" x1="685" y1="30.5" x2="635" y2="85.5"/>
+      </g>
       <path class="cls-10" d="M 730 50 C 680 0 650 120 710 110"/>
-
-      <line class="cls-10" x1="755" y1="50.5" x2="735" y2="115.5"/>
-      <line class="cls-10" x1="755" y1="50.5" x2="795" y2="64.5"/>
-      <line class="cls-10" x1="745" y1="82.75" x2="775" y2="92"/>
-      <line class="cls-10" x1="735" y1="115.5" x2="775" y2="128.5"/>
+      <g id="hieujoyce-sign-e2" class="sign-letter">
+        <line class="cls-10" x1="755" y1="50.5" x2="735" y2="115.5"/>
+        <line class="cls-10" x1="755" y1="50.5" x2="795" y2="64.5"/>
+        <line class="cls-10" x1="745" y1="82.75" x2="775" y2="92"/>
+        <line class="cls-10" x1="735" y1="115.5" x2="775" y2="128.5"/>
+      </g>
     </g>
   </g>
   <g id="ferris-wheel">
