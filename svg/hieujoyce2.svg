@@ -803,7 +803,6 @@
           height: 100%;
           width: 100%;
           max-width: 900px;
-          overflow-y: hidden;
           z-index: 2;
         }
         .mariposa {
@@ -822,23 +821,59 @@
           animation: fly 4s infinite linear;
           animation-delay: 0.125s;
         }
-        .mariposa:nth-child(2) {
+        .mariposa.mariposa_left {
+          left: -1000px;
+        }
+        .mariposa.mariposa_right {
+          right: -1000px;
+        }
+
+        .mariposa:nth-child(2),
+        .mariposa:nth-child(7),
+        .mariposa:nth-child(8) {
           animation-delay: 0.4s;
         }
-        .mariposa:nth-child(2) .mariposa-turn {
+        .mariposa:nth-child(2) .mariposa-turn,
+        .mariposa:nth-child(7) .mariposa-turn,
+        .mariposa:nth-child(8) .mariposa-turn {
           animation-delay: 0.75s;
         }
-        .mariposa:nth-child(2) .mariposa-turn .mariposa-flutter {
+        .mariposa:nth-child(2) .mariposa-turn .mariposa-flutter,
+        .mariposa:nth-child(7) .mariposa-turn .mariposa-flutter
+        .mariposa:nth-child(8) .mariposa-turn .mariposa-flutter {
           transform: scale(0.7) rotateX(35deg);
         }
         .mariposa:nth-child(3) {
           animation-delay: 0.75s;
         }
+        .mariposa:nth-child(4) {
+          animation-delay: 1s;
+        }
+        .mariposa:nth-child(5) {
+          animation-delay: 1.25s;
+        }
+        .mariposa:nth-child(6) {
+          animation-delay: 1.5s;
+        }
+
+        .mariposa:nth-child(3) .mariposa-turn .mariposa-flutter,
+        .mariposa:nth-child(4) .mariposa-turn .mariposa-flutter,
+        .mariposa:nth-child(5) .mariposa-turn .mariposa-flutter,
+        .mariposa:nth-child(6) .mariposa-turn .mariposa-flutter {
+          transform: scale(0.4) rotateX(45deg);
+        }
+
         .mariposa:nth-child(3) .mariposa-turn {
           animation-delay: 1.25s;
         }
-        .mariposa:nth-child(3) .mariposa-turn .mariposa-flutter {
-          transform: scale(0.3) rotateX(45deg);
+        .mariposa:nth-child(4) .mariposa-turn {
+          animation-delay: 1.6s;
+        }
+        .mariposa:nth-child(5) .mariposa-turn {
+          animation-delay: 1.95s;
+        }
+        .mariposa:nth-child(6) .mariposa-turn {
+          animation-delay: 2.3s;
         }
         .mariposa .mariposa-turn {
           display: flex;
@@ -1092,6 +1127,36 @@
         </div>
 
         <div class="mariposa">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+
+        <div class="mariposa">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+
+        <div class="mariposa">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+
+        <div class="mariposa">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+
+        <div class="mariposa mariposa_left">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+
+        <div class="mariposa mariposa_right">
           <div class="mariposa-turn">
             <div class="mariposa-flutter"></div>
           </div>
