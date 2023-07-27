@@ -795,12 +795,12 @@
 
 
         .stage {
-          position: fixed;
+          position: absolute;
           top: 0;
           left: 0;
           right: 0;
           margin: 0 auto;
-          height: 100vh;
+          height: 100%;
           width: 100%;
           max-width: 900px;
           overflow-y: hidden;
@@ -937,14 +937,14 @@
         @keyframes fly {
           0% {
             opacity: 0;
-            transform: translateY(70vh);
+            transform: translateY(750px);
           }
           3%,
           99% {
             opacity: 1;
           }
           100% {
-            transform: translateY(-70vh);
+            transform: translateY(-650px);
           }
         }
       </style>
