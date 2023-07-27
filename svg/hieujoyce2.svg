@@ -860,7 +860,7 @@
           animation-fill-mode: both;
           animation: turn 3s infinite cubic-bezier(0.31, 0.09, 0.77, 1.5);
           transform-style: preserve-3d;
-          filter: drop-shadow(10px 6px 2px rgba(255, 255, 255, 0.1));
+          filter: drop-shadow(20px 12px 4px rgba(255, 255, 255, 0.2));
         }
         .mariposa-flutter {
           width: 2rem;
