@@ -822,10 +822,10 @@
           animation-delay: 0.125s;
         }
         .mariposa.mariposa_left {
-          left: -1000px;
+          left: -900px;
         }
         .mariposa.mariposa_right {
-          right: -1000px;
+          right: -900px;
         }
 
         .mariposa:nth-child(2),
@@ -1113,44 +1113,70 @@
 
       </div>
       
+      
       <div class="stage">
-        <div class="mariposa">
-          <div class="mariposa-turn">
-            <div class="mariposa-flutter"></div>
-          </div>
-        </div>
-
-        <div class="mariposa">
-          <div class="mariposa-turn">
-            <div class="mariposa-flutter"></div>
-          </div>
-        </div>
-
-        <div class="mariposa">
-          <div class="mariposa-turn">
-            <div class="mariposa-flutter"></div>
-          </div>
-        </div>
-
-        <div class="mariposa">
-          <div class="mariposa-turn">
-            <div class="mariposa-flutter"></div>
-          </div>
-        </div>
-
-        <div class="mariposa">
-          <div class="mariposa-turn">
-            <div class="mariposa-flutter"></div>
-          </div>
-        </div>
-
-        <div class="mariposa">
+        <div class="mariposa mariposa_left">
           <div class="mariposa-turn">
             <div class="mariposa-flutter"></div>
           </div>
         </div>
 
         <div class="mariposa mariposa_left">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+
+        <div class="mariposa mariposa_left">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+
+        <div class="mariposa mariposa_left">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+
+        <div class="mariposa mariposa_left">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+
+        <div class="mariposa mariposa_left">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+      </div>
+      <div class="stage">
+        <div class="mariposa mariposa_right">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+
+        <div class="mariposa mariposa_right">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+
+        <div class="mariposa mariposa_right">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+
+        <div class="mariposa mariposa_right">
+          <div class="mariposa-turn">
+            <div class="mariposa-flutter"></div>
+          </div>
+        </div>
+
+        <div class="mariposa mariposa_right">
           <div class="mariposa-turn">
             <div class="mariposa-flutter"></div>
           </div>
