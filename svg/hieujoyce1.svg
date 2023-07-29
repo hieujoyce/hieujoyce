@@ -3,7 +3,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         :root {
-          --bg: #1a1e2d;
+          --bg: #000;
           --green: #a5ea9b;
           --pink: #ff61d8;
           --blue: #569cfa;
