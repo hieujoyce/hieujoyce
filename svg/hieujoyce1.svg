@@ -718,24 +718,65 @@
 
         .intro p.chat {
           color: var(--cyan);
-          font-size: 30px;
+          font-size: 26px;
           overflow: hidden;
           border-right: 0.15em solid orange;
           white-space: nowrap;
           margin: 0 auto;
-          animation: typing 7s steps(40, end) infinite,
+        }
+
+        .intro p.chat:nth-child(1) {
+          animation: typingt-1 10s steps(40, end) infinite,
             blink-caret 0.75s step-end infinite;
         }
 
-        @keyframes typing {
+        .intro p.chat:nth-child(2) {
+          animation: typingt-2 10s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        @keyframes typingt-1 {
           0% {
+            display: inline-block;
             width: 0;
           }
-          40% {
+          25% {
+            display: inline-block;
+            width: 100%;
+          }
+          49% {
+            display: inline-block;
+            width: 100%;
+          }
+          50% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-2 {
+          0% {
+            display: none;
+          }
+          50% {
+            display: none;
+          }
+          51% {
+            display: inline-block;
+            width: 0;
+          }
+          75% {
+            display: inline-block;
+            width: 100%;
+          }
+          99% {
+            display: inline-block;
             width: 100%;
           }
           100% {
-            width: 100%;
+            display: none;
           }
         }
 
@@ -752,6 +793,7 @@
       </style>
       <div class="intro">
         <p class="chat">Xin chào mọi người, mình là Hiếu Joyce</p>
+        <p class="chat">Hay còn được gọi với biệt danh "Cỏ Dại"</p>
       </div>
     </div>
   </foreignObject>
