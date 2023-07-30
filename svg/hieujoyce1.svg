@@ -719,7 +719,6 @@
         .intro p.chat {
           color: var(--cyan);
           font-size: 30px;
-          padding: 0 10px;
           overflow: hidden;
           border-right: 0.15em solid orange;
           white-space: nowrap;
