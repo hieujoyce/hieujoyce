@@ -718,7 +718,7 @@
 
         .intro p.chat {
           color: var(--cyan);
-          font-size: 26px;
+          font-size: 21px;
           overflow: hidden;
           border-right: 0.15em solid orange;
           white-space: nowrap;
@@ -726,29 +726,102 @@
         }
 
         .intro p.chat:nth-child(1) {
-          animation: typingt-1 10s steps(40, end) infinite,
+          animation: typingt-1 80s steps(40, end) infinite,
             blink-caret 0.75s step-end infinite;
         }
 
         .intro p.chat:nth-child(2) {
-          animation: typingt-2 10s steps(40, end) infinite,
+          animation: typingt-2 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(3) {
+          animation: typingt-3 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(4) {
+          animation: typingt-4 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(5) {
+          animation: typingt-5 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(6) {
+          animation: typingt-6 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(7) {
+          animation: typingt-7 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(8) {
+          animation: typingt-8 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(9) {
+          animation: typingt-9 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(10) {
+          animation: typingt-10 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(11) {
+          animation: typingt-11 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(12) {
+          animation: typingt-12 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(13) {
+          animation: typingt-13 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(14) {
+          animation: typingt-14 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(15) {
+          animation: typingt-15 80s steps(40, end) infinite,
+            blink-caret 0.75s step-end infinite;
+        }
+
+        .intro p.chat:nth-child(16) {
+          animation: typingt-16 80s steps(40, end) infinite,
             blink-caret 0.75s step-end infinite;
         }
 
         @keyframes typingt-1 {
           0% {
+            display: none;
+          }
+          0.01% {
             display: inline-block;
             width: 0;
           }
-          25% {
+          3.12% {
             display: inline-block;
             width: 100%;
           }
-          49% {
+          6.24% {
             display: inline-block;
             width: 100%;
           }
-          50% {
+          6.25% {
             display: none;
           }
           100% {
@@ -760,18 +833,396 @@
           0% {
             display: none;
           }
-          50% {
+          6.25% {
             display: none;
           }
-          51% {
+          6.26% {
             display: inline-block;
             width: 0;
           }
-          75% {
+          9.38% {
             display: inline-block;
             width: 100%;
           }
-          99% {
+          12.49% {
+            display: inline-block;
+            width: 100%;
+          }
+          12.5% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-3 {
+          0% {
+            display: none;
+          }
+          12.5% {
+            display: none;
+          }
+          12.51% {
+            display: inline-block;
+            width: 0;
+          }
+          15.6% {
+            display: inline-block;
+            width: 100%;
+          }
+          18.74% {
+            display: inline-block;
+            width: 100%;
+          }
+          18.75% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-4 {
+          0% {
+            display: none;
+          }
+          18.75% {
+            display: none;
+          }
+          18.76% {
+            display: inline-block;
+            width: 0;
+          }
+          21.87% {
+            display: inline-block;
+            width: 100%;
+          }
+          24.99% {
+            display: inline-block;
+            width: 100%;
+          }
+          25% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-5 {
+          0% {
+            display: none;
+          }
+          25% {
+            display: none;
+          }
+          25.01% {
+            display: inline-block;
+            width: 0;
+          }
+          28.12% {
+            display: inline-block;
+            width: 100%;
+          }
+          31.24% {
+            display: inline-block;
+            width: 100%;
+          }
+          31.25% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-6 {
+          0% {
+            display: none;
+          }
+          31.25% {
+            display: none;
+          }
+          31.26% {
+            display: inline-block;
+            width: 0;
+          }
+          34.37% {
+            display: inline-block;
+            width: 100%;
+          }
+          37.49% {
+            display: inline-block;
+            width: 100%;
+          }
+          37.5% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-7 {
+          0% {
+            display: none;
+          }
+          37.5% {
+            display: none;
+          }
+          37.51% {
+            display: inline-block;
+            width: 0;
+          }
+          40.62% {
+            display: inline-block;
+            width: 100%;
+          }
+          43.74% {
+            display: inline-block;
+            width: 100%;
+          }
+          43.75% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-8 {
+          0% {
+            display: none;
+          }
+          43.75% {
+            display: none;
+          }
+          43.76% {
+            display: inline-block;
+            width: 0;
+          }
+          46.87% {
+            display: inline-block;
+            width: 100%;
+          }
+          49.99% {
+            display: inline-block;
+            width: 100%;
+          }
+          50% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-9 {
+          0% {
+            display: none;
+          }
+          50% {
+            display: none;
+          }
+          50.01% {
+            display: inline-block;
+            width: 0;
+          }
+          53.12% {
+            display: inline-block;
+            width: 100%;
+          }
+          56.24% {
+            display: inline-block;
+            width: 100%;
+          }
+          56.25% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-10 {
+          0% {
+            display: none;
+          }
+          56.25% {
+            display: none;
+          }
+          56.26% {
+            display: inline-block;
+            width: 0;
+          }
+          59.37% {
+            display: inline-block;
+            width: 100%;
+          }
+          62.49% {
+            display: inline-block;
+            width: 100%;
+          }
+          62.5% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-11 {
+          0% {
+            display: none;
+          }
+          62.5% {
+            display: none;
+          }
+          62.51% {
+            display: inline-block;
+            width: 0;
+          }
+          65.62% {
+            display: inline-block;
+            width: 100%;
+          }
+          68.74% {
+            display: inline-block;
+            width: 100%;
+          }
+          68.75% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-12 {
+          0% {
+            display: none;
+          }
+          68.75% {
+            display: none;
+          }
+          68.76% {
+            display: inline-block;
+            width: 0;
+          }
+          71.87% {
+            display: inline-block;
+            width: 100%;
+          }
+          74.99% {
+            display: inline-block;
+            width: 100%;
+          }
+          75% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-13 {
+          0% {
+            display: none;
+          }
+          75% {
+            display: none;
+          }
+          75.01% {
+            display: inline-block;
+            width: 0;
+          }
+          78.12% {
+            display: inline-block;
+            width: 100%;
+          }
+          81.24% {
+            display: inline-block;
+            width: 100%;
+          }
+          81.25% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-14 {
+          0% {
+            display: none;
+          }
+          81.25% {
+            display: none;
+          }
+          81.26% {
+            display: inline-block;
+            width: 0;
+          }
+          84.37% {
+            display: inline-block;
+            width: 100%;
+          }
+          87.49% {
+            display: inline-block;
+            width: 100%;
+          }
+          87.5% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-15 {
+          0% {
+            display: none;
+          }
+          87.5% {
+            display: none;
+          }
+          87.51% {
+            display: inline-block;
+            width: 0;
+          }
+          90.62% {
+            display: inline-block;
+            width: 100%;
+          }
+          93.74% {
+            display: inline-block;
+            width: 100%;
+          }
+          93.75% {
+            display: none;
+          }
+          100% {
+            display: none;
+          }
+        }
+
+        @keyframes typingt-16 {
+          0% {
+            display: none;
+          }
+          93.75% {
+            display: none;
+          }
+          93.76% {
+            display: inline-block;
+            width: 0;
+          }
+          96.87% {
+            display: inline-block;
+            width: 100%;
+          }
+          99.99% {
             display: inline-block;
             width: 100%;
           }
@@ -794,6 +1245,40 @@
       <div class="intro">
         <p class="chat">Xin chào mọi người, mình là Hiếu Joyce</p>
         <p class="chat">Hay còn được gọi với biệt danh "Cỏ Dại"</p>
+        <p class="chat">
+          Mọi người biết cảm giác yêu đơn phương nhưng không thể nói ra chứ?
+        </p>
+        <p class="chat">
+          Hôm nay mình rất buồn, nên mình muốn nói ra hết nỗi lòng
+        </p>
+        <p class="chat">
+          Kể từ ngày mình gặp hôm ấy, anh đã biết chắc có hôm nay
+        </p>
+        <p class="chat">
+          1 ngày nỗi nhớ dâng đầy, xung quanh hình ảnh em bao vây
+        </p>
+        <p class="chat">
+          Loay hoay mãi trong lòng 1 câu, "bây giờ phải làm sao đây?"
+        </p>
+        <p class="chat">
+          Khi tâm nói anh phải buông tay nhưng tim van nài anh đừng tháo chạy
+        </p>
+        <p class="chat">Anh...tự biết thân là kẻ đến sau</p>
+        <p class="chat">Còn em như là con thuyền kể từ nay đã có bến đậu</p>
+        <p class="chat">
+          Nên chẳng mong, chẳng cầu, trời mang mình đến bên nhau
+        </p>
+        <p class="chat">Chỉ xin kỷ niệm ở lại, nỗi nhớ này đừng thêm sâu</p>
+        <p class="chat">Vì yêu đơn phương là tự nguyện đau, là âm thầm nhớ</p>
+        <p class="chat">
+          Là chấp nhận cuối đầu trước duyên số, ngày đêm âm thầm chờ
+        </p>
+        <p class="chat">
+          Xin cứ để nước mắt anh rơi cho trọn chân thành 1 người đứng sau
+        </p>
+        <p class="chat">
+          Em không cần đáp trả tình cảm 1 gã si tình như là anh đâu
+        </p>
       </div>
     </div>
   </foreignObject>
