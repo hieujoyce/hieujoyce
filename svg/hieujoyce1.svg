@@ -1,7 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 783.55 354.91" width="783.55" height="354.91">
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 783.55 354.91" width="783.55" height="420">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width:100%;height:100%;display: flex;flex-direction: column;justify-content: flex-end;">
       <style>
+        * {
+          margin: 0;
+          padding: 0;
+          display: border-box;
+          font-family: "Lucida Console", "Courier New", monospace;
+        }
         :root {
           --bg: #000;
           --green: #a5ea9b;
@@ -703,8 +709,23 @@
           }
         }
 
+        .intro {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          height: 65px;
+        }
+
+        .intro .chat {
+          color: var(--cyan);
+          font-size: 30px;
+          padding: 0 10px;
+        }
 
       </style>
+      <div class="intro">
+        <p class="chat">Hello, I'm Hieu Joyce</p>
+      </div>
     </div>
   </foreignObject>
   <g id="bongo-cat">
@@ -1073,3 +1094,5 @@
     </g>
   </g>
 </svg>
+
+<!-- 354.91 -->
