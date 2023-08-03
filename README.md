@@ -1,12 +1,11 @@
 <a href="#" target="_blank">
-  <img src="svg/hieujoyce.svg" alt="Hieu Joyce" width="1200" height="700" />
-</a>
-
-<a href="#" target="_blank">
   <img src="svg/hieujoyce1.svg" alt="Hieu Joyce" />
 </a>
 <a href="#" target="_blank">
   <img src="svg/hieujoyce2.svg" alt="Hieu Joyce" width="1200" height="450" />
+</a>
+<a href="#" target="_blank">
+  <img src="svg/hieujoyce.svg" alt="Hieu Joyce" width="1200" height="700" />
 </a>
 <br>
 <br>
