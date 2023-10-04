@@ -718,7 +718,7 @@
 
         .intro p.chat {
           color: var(--cyan);
-          font-size: 21px;
+          font-size: 20px;
           overflow: hidden;
           border-right: 0.15em solid orange;
           white-space: nowrap;
@@ -1243,41 +1243,49 @@
 
       </style>
       <div class="intro">
-        <p class="chat">Xin chào mọi người, mình là Hiếu Joyce</p>
-        <p class="chat">Hay còn được gọi với biệt danh "Cỏ Dại"</p>
+        <p class="chat">Xin chào mọi người, mình là Hiếu Joyce(Cỏ Dại)</p>
+        <p class="chat">Hiếu không còn đi bán đồ nữa rồi</p>
         <p class="chat">
-          Mọi người biết cảm giác yêu đơn phương nhưng không thể nói ra chứ?
+          Nhưng nó vẫn đi chơi với cả một lũ tồi
         </p>
         <p class="chat">
-          Hôm nay mình rất buồn, nên mình muốn nói ra hết nỗi lòng
+          Quá nhiều lần nó đã bị lừa dối, cảm ơn chúa nó vẫn là thằng giữ lời
         </p>
         <p class="chat">
-          Kể từ ngày mình gặp hôm ấy, anh đã biết chắc có hôm nay
+          Vẫn giao dịch với dealer địa phương, nên cái đ gì tao nói cũng là bịa luôn
         </p>
         <p class="chat">
-          1 ngày nỗi nhớ dâng đầy, xung quanh hình ảnh em bao vây
+          Trước khi họ gọi đó là hiện trường đấy là chỗ tao vẫn chất hàng chất hàng
         </p>
         <p class="chat">
-          Loay hoay mãi trong lòng 1 câu, "bây giờ phải làm sao đây?"
+          Hustler thì nhận ra hustler khi gặp nhau ngoài phố bọn tao hất hàm hất hàm
         </p>
         <p class="chat">
-          Khi tâm nói anh phải buông tay nhưng tim van nài anh đừng tháo chạy
-        </p>
-        <p class="chat">Anh...tự biết thân là kẻ đến sau</p>
-        <p class="chat">Còn em như là con thuyền kể từ nay đã có bến đậu</p>
-        <p class="chat">
-          Nên chẳng mong, chẳng cầu, trời mang mình đến bên nhau
-        </p>
-        <p class="chat">Chỉ xin kỷ niệm ở lại, nỗi nhớ này đừng thêm sâu</p>
-        <p class="chat">Vì yêu đơn phương là tự nguyện đau, là âm thầm nhớ</p>
-        <p class="chat">
-          Là chấp nhận cuối đầu trước duyên số, ngày đêm âm thầm chờ
+          Tao cố tránh xa khỏi va chạm dù những thằng là bạn tao nó rất là sẵn sàng
         </p>
         <p class="chat">
-          Xin cứ để nước mắt anh rơi cho trọn chân thành 1 người đứng sau
+          Khi tao nói tao không làm nữa, anh em tao tham tiền chúng nó vẫn làm vẫn làm
         </p>
         <p class="chat">
-          Em không cần đáp trả tình cảm 1 gã si tình như là anh đâu
+          Nếu như họ không nhốt nó lại thì có lẽ bây giờ nó vẫn đang dẫn đoàn
+        </p>
+        <p class="chat">
+          Mẹ tao không thích người tao đầy hình xăm
+        </p>
+        <p class="chat">
+          Không đủ tiền đổ đầy 1 bình xăng
+        </p>
+        <p class="chat">
+          Rời khỏi thành phố mang chỉ đủ tiền ăn
+        </p>
+        <p class="chat">
+          Chờ may mắn cho 1 đường chuyền căng
+        </p>
+        <p class="chat">
+          Trẻ tuổi và tao biết mình non dạ, chưa bao giờ chối bỏ tao đã sai lầm sai lầm
+        </p>
+        <p class="chat">
+          Ồn ào hàng xóm sẽ gọi phường nên khi chia chác bọn tao silent silent
         </p>
       </div>
     </div>
