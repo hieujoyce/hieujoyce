@@ -64,6 +64,10 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=hieujoyce&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hieujoyce/count.svg" />
+</p>
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
